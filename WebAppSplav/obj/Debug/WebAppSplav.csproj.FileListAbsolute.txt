@@ -1,0 +1,118 @@
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\WebAppSplav.dll.config
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\WebAppSplav.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\WebAppSplav.pdb
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\csc.exe
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\csc.exe.config
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\csc.rsp
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\csi.exe
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\csi.exe.config
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\csi.rsp
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.AppContext.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Console.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.Compression.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Net.Http.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Net.Sockets.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.ValueTuple.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.XPath.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\vbc.exe
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\vbc.exe.config
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\vbc.rsp
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\VBCSCompiler.exe
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.csproj.AssemblyReference.cache
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.csproj.CoreCompileInputs.cache
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.csproj.CopyComplete
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.dll
+C:\Users\12042\OneDrive\Рабочий стол\diplom\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.pdb
+D:\sso\WebAppSplav\WebAppSplav\bin\WebAppSplav.dll.config
+D:\sso\WebAppSplav\WebAppSplav\bin\WebAppSplav.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\WebAppSplav.pdb
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\csc.exe
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\csc.exe.config
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\csc.rsp
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\csi.exe
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\csi.exe.config
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\csi.rsp
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.AppContext.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Collections.Immutable.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Console.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Globalization.Calendars.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.Compression.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.FileSystem.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Net.Http.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Net.Sockets.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Reflection.Metadata.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.ValueTuple.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.XPath.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\vbc.exe
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\vbc.exe.config
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\vbc.rsp
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\VBCSCompiler.exe
+D:\sso\WebAppSplav\WebAppSplav\bin\roslyn\VBCSCompiler.exe.config
+D:\sso\WebAppSplav\WebAppSplav\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sso\WebAppSplav\WebAppSplav\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sso\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.csproj.AssemblyReference.cache
+D:\sso\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.csproj.CoreCompileInputs.cache
+D:\sso\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.csproj.CopyComplete
+D:\sso\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.dll
+D:\sso\WebAppSplav\WebAppSplav\obj\Debug\WebAppSplav.pdb

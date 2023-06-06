@@ -1,0 +1,157 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.master.cs" Inherits="WebAppSplav.User.User" %>
+
+<%@ Register Src="~/User/SliderUserControl.ascx" TagPrefix="uc1" TagName="SliderUserControl" %>
+
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<%--<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>--%>
+   <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+ <%-- <link rel="shortcut icon" href="../TemplateFiles/images/favicon.png" type="">--%>
+
+  <title>WebSplav</title>
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="../TemplateFiles/css/bootstrap.css" />
+
+  <!--owl slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+  <!-- nice select  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
+  <!-- font awesome style -->
+  <link href="../TemplateFiles/css/font-awesome.min.css" rel="stylesheet" />
+
+  <!-- Custom styles for this template -->
+  <link href="../TemplateFiles/css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="../TemplateFiles/css/responsive.css" rel="stylesheet" />
+     <script src="../TemplateFiles/js/jquery-3.4.1.min.js"></script>
+
+    
+    <script>
+        $(function () {
+            //this will get the full URL at the address bar
+            var url = window.location.href;
+
+            //passes on every "a" tad
+            $("#navbarSupportedContent a").each(function () {
+                //checks if its same on address bar
+                if (url == (this.href)) {
+                    $(this).closest("li").addClass("active");
+                }
+            });
+        });
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     
+          <div class="hero_area">
+    <div class="bg-box">
+      <img src="../TemplateFiles/images/230.jpg" />
+    </div>
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              WebSplav
+            </span>
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav  mx-auto ">
+             <%-- <li class="nav-item ">
+                <a class="nav-link" href="Default.aspx">Главная</a>
+              </li>--%>
+              <li class="nav-item">
+                <a class="nav-link" href="WebBook.aspx">Главная</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">О системе</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="book.html">Блог</a>
+              </li>
+            </ul>
+            <div class="user_option">
+              <a href="Profile.aspx" class="user_link">
+                <i class="fa fa-user" aria-hidden="true"></i>
+              </a>
+         
+              <div class="form-inline">
+                <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
+                  <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+              </div>
+             <%-- <a href="Login.aspx" class="order_online">
+                Войти
+              </a>--%>
+
+                <asp:LinkButton ID="lblLoginOrLogout" runat="server" CssClass="order_online" CausesValidation="false" 
+                    OnClick="lblLoginOrLogout_Click" ></asp:LinkButton>
+
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+                
+              <%--<uc1:SliderUserControl runat="server" ID="SliderUserControl" />--%>
+        <%--      <asp:Panel ID="pnlSliderUC" runat="server"></asp:Panel>--%>
+
+  </div>
+
+
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+
+
+    </form>
+
+
+     <!-- jQery -->
+ <%-- <script src="../TemplateFiles/js/jquery-3.4.1.min.js"></script>--%>
+  <!-- popper js -->
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+  </script>
+  <!-- bootstrap js -->
+  <script src="../TemplateFiles/js/bootstrap.js"></script>
+  <!-- owl slider -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+  </script>
+  <!-- isotope js -->
+  <script src="https://unpkg.com/isotope-layout@3.0.4/dist/isotope.pkgd.min.js"></script>
+  <!-- nice select -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js"></script>
+  <!-- custom js -->
+  <script src="../TemplateFiles/js/custom.js"></script>
+  <!-- Google Map -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
+  </script>
+  <!-- End Google Map -->
+
+</body>
+</html>
+
+ 
